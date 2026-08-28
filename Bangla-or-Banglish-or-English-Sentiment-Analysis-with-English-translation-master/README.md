@@ -19,7 +19,7 @@ This is my third semester System Development project. I was trying to improve my
 N.B. geckodriver must be installed in your system for website automation.
 
 ## Getting started
-1. `git clone --recursive https://github.com/rahatzamancse/Bangla-or-Banglish-or-English-Sentiment-Analysis-with-English-translation.git`
+1. `git clone --recursive https://github.com/nurul-ismat/Bangla-or-Banglish-or-English-Sentiment-Analysis-with-English-translation.git`
 2. Install the required dependencies to your python virtual environment.
 3. `python3 main.py`
 
@@ -49,16 +49,12 @@ The main reason to publish something open source, is that anyone can just jump i
 So If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 ## Links and References
-- Project homepage: https://github.com/rahatzamancse/Bangla-or-Banglish-or-English-Sentiment-Analysis-with-English-translation
-- Repository: https://github.com/rahatzamancse/Bangla-or-Banglish-or-English-Sentiment-Analysis-with-English-translation.git
-- Issue tracker: https://github.com/rahatzamancse/Bangla-or-Banglish-or-English-Sentiment-Analysis-with-English-translation/issues
-- In case of any help you may need from me, please contact rahatzamancse@gmail.com directly without any hesitation! I will be glad to help you.
+- Project homepage: https://github.com/nurul-ismat/Bangla-or-Banglish-or-English-Sentiment-Analysis-with-English-translation
+- Repository: https://github.com/nurul-ismat/Bangla-or-Banglish-or-English-Sentiment-Analysis-with-English-translation.git
+- Issue tracker: https://github.com/nurul-ismat/Bangla-or-Banglish-or-English-Sentiment-Analysis-with-English-translation/issues
 
 ## Author
-Rahat Zaman  
-rahatzamancse@gmail.com  
-Student at Department of Computer Science and Engineering  
-Khulna University of Engineering & Technology, Khulna  
+Nurul Ismat Tanni
 Bangladesh
 
 ## Licensing
