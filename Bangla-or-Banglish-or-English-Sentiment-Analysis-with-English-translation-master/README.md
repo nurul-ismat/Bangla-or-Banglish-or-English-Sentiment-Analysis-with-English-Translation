@@ -7,7 +7,7 @@
 A Sentiment analysis with a graphical user interface of bangla or phonetic Bangla (Banglish) language project. This uses a rule-based sentiment analysis API of [TextBlob](https://textblob.readthedocs.io/en/dev/) and [VaderSentiment](https://github.com/cjhutto/vaderSentiment).
 
 ## Motivation
-This is my third semester System Development project. I was trying to improve my skills with [PyQt](https://wiki.python.org/moin/PyQt) and usage of Python APIs.
+This is my third semester System Development project. I was trying to improve my skills with [PyQt](https://wiki.python.org/moin/PyQt) and the use of Python APIs.
 
 ## Python Package Dependencies
 1. Scrapy
@@ -63,6 +63,5 @@ Bangladesh
 ## Author
 Nurul Ismat Tanni
 ismattanni@gmail.com  
->>>>>>> 9992ee1 (Update changes)
 
 
