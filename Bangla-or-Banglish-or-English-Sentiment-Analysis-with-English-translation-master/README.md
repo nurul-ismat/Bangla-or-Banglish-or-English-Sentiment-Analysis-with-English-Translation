@@ -52,10 +52,18 @@ So If you'd like to contribute, please fork the repository and use a feature bra
 - Project homepage: https://github.com/nurul-ismat/Bangla-or-Banglish-or-English-Sentiment-Analysis-with-English-translation
 - Repository: https://github.com/nurul-ismat/Bangla-or-Banglish-or-English-Sentiment-Analysis-with-English-translation.git
 - Issue tracker: https://github.com/nurul-ismat/Bangla-or-Banglish-or-English-Sentiment-Analysis-with-English-translation/issues
+<<<<<<< HEAD
 
 ## Author
 Nurul Ismat Tanni
 Bangladesh
+=======
+- In case of any help you may need from me, please contact ismattanni@gmail.com directly without any hesitation! I will be glad to help you.
+
+## Author
+Nurul Ismat Tanni
+ismattanni@gmail.com  
+>>>>>>> 9992ee1 (Update changes)
 
 ## Licensing
 The code in this project is licensed under GNU GPLv3 license.
