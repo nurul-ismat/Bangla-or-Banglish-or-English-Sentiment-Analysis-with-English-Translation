@@ -4,49 +4,49 @@
 ![white interface](images/white.png) ![dark interface](images/dark.png)
 
 ## Description
-A Sentiment analysis with graphical user interface of bangla or phonetic bangla(banglish) language project. This uses rule based sentiment analysis API of [TextBlob](https://textblob.readthedocs.io/en/dev/) and [VaderSentiment](https://github.com/cjhutto/vaderSentiment).
+A Sentiment analysis with a graphical user interface of bangla or phonetic Bangla (Banglish) language project. This uses a rule-based sentiment analysis API of [TextBlob](https://textblob.readthedocs.io/en/dev/) and [VaderSentiment](https://github.com/cjhutto/vaderSentiment).
 
 ## Motivation
-This is my third semester System Development project. I was trying to improve my skill with [PyQt](https://wiki.python.org/moin/PyQt) and usage of python APIs.
+This is my third semester System Development project. I was trying to improve my skills with [PyQt](https://wiki.python.org/moin/PyQt) and usage of Python APIs.
 
 ## Python Package Dependencies
 1. Scrapy
 2. QDarkstyle
-3. Pyqt
+3. PyQt
 4. Vadersentiment
-5. Textblob
+5. TextBlob
 
-N.B. geckodriver must be installed in your system for website automation.
+N.B. Geckodriver must be installed in your system for website automation.
 
 ## Getting started
 1. `git clone --recursive https://github.com/nurul-ismat/Bangla-or-Banglish-or-English-Sentiment-Analysis-with-English-translation.git`
-2. Install the required dependencies to your python virtual environment.
+2. Install the required dependencies in your Python virtual environment.
 3. `python3 main.py`
 
-Thats it! As the project is just for learning purposes, please look into how the project is structured and how the control of the project flows.
+That's it! As the project is just for learning purposes, please look into how the project is structured and how the control of the project flows.
 
 ## Features
-What's all the bells and whistles this project can perform?
-* Scrape the title and content of the webpage of prothom alo.
-* Scrape all the comments of that webpage of prothom alo.
-* Scrape above two of all the webpages of prothom alo date of a specific date.
-* Translate the content from phonetic bangla(banglish) to bangla and from bangla to english.
-* Display results of two sentiment analysis APIs(Textblob and VaderSentiment).
+What are all the bells and whistles this project can perform?
+* Scrape the title and content of the webpage of Prothom Alo.
+* Scrape all the comments from that webpage of Prothom Alo.
+* Scrape the above two from all the webpages of prothom alo date of a specific date.
+* Translate the content from phonetic Bangla (Banglish) to Bangla and from Bangla to English.
+* Display results of two sentiment analysis APIs(TextBlob and VaderSentiment).
 
 ## Usage
 1. Run main.py
-2. Provide a link of a post from [prothom alo](https://www.prothomalo.com/) or a date in the first text field.
-3. Select the appropriate data provided in the textfield(Link or Date).
-4. Click Parse. This will parse the title, content and comments on that page.
+2. Provide a link to a post from [Prothom Alo](https://www.prothomalo.com/) or a date in the first text field.
+3. Select the appropriate data provided in the text field (Link or Date).
+4. Click Parse. This will parse the title, content, and comments on that page.
 5. Select some items of the parsed list.
-6. Select appropriate translation api to use from the drop down and the appropriate use of radio button for the source language.
+6. Select the appropriate translation api to use from the drop-down and the appropriate use of radio button for the source language.
 7. Click on the Analyze button. This will analyse the contents selected and show the results.
 
 N.B. You can also use your own text in the input text field for sentiment analysis.
 
 ## Contributing
-The main reason to publish something open source, is that anyone can just jump in and start contributing to my project.
-So If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+The main reason to publish something open source is that anyone can just jump in and start contributing to my project.
+So if you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 ## Links and References
 - Project homepage: https://github.com/nurul-ismat/Bangla-or-Banglish-or-English-Sentiment-Analysis-with-English-translation
@@ -58,12 +58,11 @@ So If you'd like to contribute, please fork the repository and use a feature bra
 Nurul Ismat Tanni
 Bangladesh
 =======
-- In case of any help you may need from me, please contact ismattanni@gmail.com directly without any hesitation! I will be glad to help you.
+- In case of any help from me, please contact ismattanni@gmail.com directly without any hesitation! I will be glad to help you.
 
 ## Author
 Nurul Ismat Tanni
 ismattanni@gmail.com  
 >>>>>>> 9992ee1 (Update changes)
 
-## Licensing
-The code in this project is licensed under GNU GPLv3 license.
+
