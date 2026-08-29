@@ -50,8 +50,4 @@ So if you'd like to contribute, please fork the repository and use a feature bra
 
 - In case of any help from me, please contact ismattanni@gmail.com directly without any hesitation! I will be glad to help you.
 
-## Author
-Nurul Ismat Tanni
-ismattanni@gmail.com  
-
 
