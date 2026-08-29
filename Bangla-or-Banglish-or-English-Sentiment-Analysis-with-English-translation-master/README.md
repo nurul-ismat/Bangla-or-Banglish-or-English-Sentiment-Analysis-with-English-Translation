@@ -48,16 +48,6 @@ N.B. You can also use your own text in the input text field for sentiment analys
 The main reason to publish something open source is that anyone can just jump in and start contributing to my project.
 So if you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-## Links and References
-- Project homepage: https://github.com/nurul-ismat/Bangla-or-Banglish-or-English-Sentiment-Analysis-with-English-translation
-- Repository: https://github.com/nurul-ismat/Bangla-or-Banglish-or-English-Sentiment-Analysis-with-English-translation.git
-- Issue tracker: https://github.com/nurul-ismat/Bangla-or-Banglish-or-English-Sentiment-Analysis-with-English-translation/issues
-<<<<<<< HEAD
-
-## Author
-Nurul Ismat Tanni
-Bangladesh
-=======
 - In case of any help from me, please contact ismattanni@gmail.com directly without any hesitation! I will be glad to help you.
 
 ## Author
